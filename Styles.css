@@ -1,0 +1,126 @@
+body {
+    width: 1440px;
+    height: 700px;
+    font-family: "Karla";
+    
+    background: rgb(217, 224, 240);
+   
+   
+}
+
+h1 {
+    color: hsl(179, 62%, 43%);
+    font-size:  24px;
+}
+h2{
+    font-size: 22px;
+    font-weight: 400;
+}
+
+p {
+    font-size: 18px;
+}
+
+div {
+    width: 800px;
+    height: 550px;
+  
+
+}
+.whiteSec {
+    background: white;
+    height: 45%;
+    border-radius: 10px 10px 0px 0px;
+
+    
+}
+
+.join {
+    margin-left: 50px;
+   padding-top: 30px;
+   margin-right: 200px;
+   width: 600px;
+    
+}
+.blueSec {
+    width: 50%;
+    height: 55%;
+    background: hsl(179, 62%, 43%);
+    color: white;
+    float: left;
+    border-radius: 0px 0px 0px 10px;
+    display: inline-block;
+   
+}
+
+.monthly {
+    width: 80%;
+    margin: 40px;
+    padding-left: 20px;
+   
+}
+.yellow {
+    color: hsl(71, 73%, 54%);
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.grayBlue {
+    color: hsl(218, 22%, 67%);
+}
+
+.blueSec2 {
+    width: 50%;
+    height: 55%;
+    background: hsl(179, 48%, 49%);
+    float: left;
+    color: white;
+    border-radius: 0px 0px 10px 0px;
+    
+
+}
+.why {
+    width: 250px;
+    margin: 40px;
+}
+.why li {
+    font-size: 19px;
+    font-weight: 100;
+}
+.why h2 {
+    font-weight: 700;
+}
+
+ul {
+    list-style-type: none; /* Remove bullets */
+    padding: 0; /* Remove padding */
+    margin: 0; /* Remove margins */
+  }
+
+.signUp {
+    width: 90%;
+    height: 60px;
+    background: hsl(71, 73%, 54%);
+   
+    font-size: 22px;
+    border-radius: 5px;
+    margin-top: 10px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 60px;
+  }
+  .large {
+    font-size: 50px;
+    font-weight: 700;
+  }
+
+  .per {
+    color: hsl(204, 43%, 93%);
+    font-weight: 100;
+    font-size: 18px;
+  }
+
+h3 {
+    font-weight: 100;
+    padding-bottom: 15px;
+}
